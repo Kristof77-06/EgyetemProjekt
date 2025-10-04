@@ -23,5 +23,4 @@ export const termekekLISTA = [
     leiras: "terék leírás",
     ar: 5000,
   },
-
 ];
